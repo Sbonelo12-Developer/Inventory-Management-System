@@ -1,0 +1,31 @@
+Mon May 12 12:48:32 CAT 2025 : Apache Derby Network Server - 10.9.1.0 - (1344872) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Mon May 12 12:48:56 CAT 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.9.1.0 - (1344872): instance a816c00e-0196-c41c-51a3-000015239456 
+on database directory C:\Users\SboneloZwane\OneDrive - Tshwane University of Technology\Documents\224532121\ProductDB  with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Users/SboneloZwane/GlassFish_Server/javadb/lib/derby.jar
+java.vendor=OpenLogic-OpenJDK
+java.runtime.version=1.8.0_402-402-b06
+user.dir=C:\Users\SboneloZwane\GlassFish_Server\javadb
+derby.system.home=C:\Users\SboneloZwane\OneDrive - Tshwane University of Technology\Documents\224532121
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon May 12 12:48:58 CAT 2025:
+Shutting down instance a816c00e-0196-c41c-51a3-000015239456 on database directory C:\Users\SboneloZwane\OneDrive - Tshwane University of Technology\Documents\224532121\ProductDB with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Mon May 12 12:48:58 CAT 2025 Thread[DRDAConnThread_4,5,main] (DATABASE = ProductDB), (DRDAID = {2}), Database 'ProductDB' shutdown.
+----------------------------------------------------------------
+Mon May 12 12:49:01 CAT 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.9.1.0 - (1344872): instance 4d3680a5-0196-c41c-51a3-000015239456 
+on database directory C:\Users\SboneloZwane\OneDrive - Tshwane University of Technology\Documents\224532121\ProductDB  with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Users/SboneloZwane/GlassFish_Server/javadb/lib/derby.jar
+java.vendor=OpenLogic-OpenJDK
+java.runtime.version=1.8.0_402-402-b06
+user.dir=C:\Users\SboneloZwane\GlassFish_Server\javadb
+derby.system.home=C:\Users\SboneloZwane\OneDrive - Tshwane University of Technology\Documents\224532121
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon May 12 18:22:00 CAT 2025: Shutting down Derby engine
+----------------------------------------------------------------
+Mon May 12 18:22:00 CAT 2025:
+Shutting down instance 4d3680a5-0196-c41c-51a3-000015239456 on database directory C:\Users\SboneloZwane\OneDrive - Tshwane University of Technology\Documents\224532121\ProductDB with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+----------------------------------------------------------------
